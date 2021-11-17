@@ -1,0 +1,49 @@
+.siup_target_sites_section{
+	padding: 20px 16px;
+}
+.siup_target_sites{
+	height:150px !important;
+	vertical-align: top !important;
+	margin-left: 20px;
+}
+.siup_items{
+	margin:30px 0;
+}
+.siup_item.template{
+	display:none;
+}
+.siup_item td{
+	vertical-align: top;
+	padding:4px 10px;
+}
+.siup_item td.sub_setting_column{
+	visibility: hidden;
+}
+.siup_item_selector,
+.siup_item_db_value{
+	width:500px;
+}
+.siup_item_attributes_section{
+	display:none;
+	margin-top:20px;
+}
+.siup_item_clone_name_delete{
+	display:none;
+}
+.siup_item_delete{
+	display: block;
+	margin:.5em 10px 0 0;
+	font-size: 2em;
+	text-decoration: none;
+}
+.siup_buttons{
+	margin:5px 14px;
+}
+.siup_progress{
+	line-height: 30px;
+	padding-left: 20px;
+	font-style: italic;
+}
+.siup_query{
+	margin-top:40px;
+}
